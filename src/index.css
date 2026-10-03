@@ -145,13 +145,6 @@
       color 200ms ease;
   }
 
-  button,
-  input,
-  textarea,
-  select {
-    font: inherit;
-  }
-
   button {
     cursor: pointer;
   }
